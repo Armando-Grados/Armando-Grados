@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-\- 👋 Hi, I’m @Armando-Grados - 👀 I’m interested in becoming a Front End Enginner  - 💞️ I'm open to collaborating on Interesting Projects - 📫 How to reach me : https://www.linkedin.com/in/armando-grados-7435ba236/
+\- 👋 Hi, I’m @Armando-Grados - 👀 Front End Enginner  - 💞️ I'm open to collaborating on Interesting Projects - 📫 How to reach me : https://www.linkedin.com/in/armando-grados-7435ba236/
 
 * 🌍  I'm based in Lima-Perú
 * ✉️  You can contact me at [jgrados96@gmail.com](mailto:jgrados96@gmail.com)
