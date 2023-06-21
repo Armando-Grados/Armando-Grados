@@ -7,7 +7,6 @@ Frontend Developer
 \- 👋 Hi, I’m @Armando-Grados - 👀 I’m interested in becoming a Front End Enginner - 🌱 I’m currently learning React - 💞️ I’m looking to collaborate on a lot of projects - 📫 How to reach me : https://www.linkedin.com/in/armando-grados-7435ba236/
 
 * 🌍  I'm based in Lima-Perú
-* 🖥️  See my portfolio at [My Portfolio](http://armando-grados.github.io/Reto2-CodiGo-Tecsup-Armando-Grados/Third_page/index3.html)
 * ✉️  You can contact me at [jgrados96@gmail.com](mailto:jgrados96@gmail.com)
 * 🧠  I'm learning React Js
 * 🤝  I'm open to collaborating on Interesting Projects
